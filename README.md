@@ -5,9 +5,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-<p align="center">
-  <img src="assets/banner.png" alt="Blogging Site Banner" width="600"/>
-</p>
 
 A **RESTful Blogging API** built with **Node.js, Express, and MongoDB**.  
 This project showcases **backend development, authentication, authorization, and CRUD operations** with Postman-tested APIs.  
